@@ -1,0 +1,13 @@
+{
+    "name": "hw.ac.uk.heriotwatt.gitlab_ui",
+    "version": "1.0.0",
+    "displayName": "GitLab Unity UI",
+    "unity": "6000.0",
+    "references": ["hw.ac.uk.heriotwatt.gitlab_ui.package"],
+    "description": "A package made to facilitate the use of GitLab repositories as a UI to interact with Unity games",
+    "author": {
+        "name": "Helen Pui-Sarn Chang",
+        "email": "helenps.chang@gmail.com"
+    },
+    "dependencies": {"com.cysharp.unitask": "2.5.10"}
+}

@@ -1,0 +1,21 @@
+{
+    "name": "GitlabUI",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "UniTask.Addressables",
+        "UniTask.DOTween",
+        "UniTask.Editor",
+        "UniTask.Linq",
+        "UniTask.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
